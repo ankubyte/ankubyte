@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ankubyte">
-    <img src="https://img.shields.io/badge/GitHub-1C1C1C?style=flat-square&logo=github&logoColor=E5E5E5" />
+    <img _blank='True' src="https://img.shields.io/badge/GitHub-1C1C1C?style=flat-square&logo=github&logoColor=E5E5E5" />
   </a>
   <a href="mailto:ankucode@gmail.com">
     <img src="https://img.shields.io/badge/Email-1C1C1C?style=flat-square&logo=gmail&logoColor=E5E5E5" />

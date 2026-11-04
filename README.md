@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ankubyte">
-    <img _blank='True' src="https://img.shields.io/badge/GitHub-1C1C1C?style=flat-square&logo=github&logoColor=E5E5E5" />
+    <img  src="https://img.shields.io/badge/GitHub-1C1C1C?style=flat-square&logo=github&logoColor=E5E5E5" />
   </a>
   <a href="mailto:ankucode@gmail.com">
     <img src="https://img.shields.io/badge/Email-1C1C1C?style=flat-square&logo=gmail&logoColor=E5E5E5" />
@@ -40,34 +40,34 @@ Currently exploring **Python, Artificial Intelligence, and Machine Learning** wh
 
 ---
 
+
 ## Tech Stack & Tools
 
 **Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-2B2B2B?style=flat-square&logo=python&logoColor=E5E5E5" />
-  <img src="https://img.shields.io/badge/JavaScript-2B2B2B?style=flat-square&logo=javascript&logoColor=E5E5E5" />
+  <img src="https://img.shields.io/badge/Python-2B2B2B?style=flat-square&logo=python&logoColor=E5E5E5" alt="Python" />
 </p>
 
 **Tools & Technologies**
 
 <p>
-  <img src="https://img.shields.io/badge/Git-2B2B2B?style=flat-square&logo=git&logoColor=E5E5E5" />
-  <img src="https://img.shields.io/badge/GitHub-2B2B2B?style=flat-square&logo=github&logoColor=E5E5E5" />
-  <img src="https://img.shields.io/badge/MySQL-2B2B2B?style=flat-square&logo=mysql&logoColor=E5E5E5" />
-  <img src="https://img.shields.io/badge/MongoDB-2B2B2B?style=flat-square&logo=mongodb&logoColor=E5E5E5" />
+  <img src="https://img.shields.io/badge/Git-2B2B2B?style=flat-square&logo=git&logoColor=E5E5E5" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-2B2B2B?style=flat-square&logo=github&logoColor=E5E5E5" alt="GitHub" />
 </p>
 
-**Exploring AI & Data Science**
+**Currently Learning & Exploring**
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-2B2B2B?style=flat-square&logo=numpy&logoColor=E5E5E5" />
-  <img src="https://img.shields.io/badge/Pandas-2B2B2B?style=flat-square&logo=pandas&logoColor=E5E5E5" />
-  <img src="https://img.shields.io/badge/PyTorch-2B2B2B?style=flat-square&logo=pytorch&logoColor=E5E5E5" />
-  <img src="https://img.shields.io/badge/TensorFlow-2B2B2B?style=flat-square&logo=tensorflow&logoColor=E5E5E5" />
+  <img src="https://img.shields.io/badge/JavaScript-2B2B2B?style=flat-square&logo=javascript&logoColor=E5E5E5" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/MySQL-2B2B2B?style=flat-square&logo=mysql&logoColor=E5E5E5" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-2B2B2B?style=flat-square&logo=mongodb&logoColor=E5E5E5" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/NumPy-2B2B2B?style=flat-square&logo=numpy&logoColor=E5E5E5" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-2B2B2B?style=flat-square&logo=pandas&logoColor=E5E5E5" alt="Pandas" />
+  <img src="https://img.shields.io/badge/PyTorch-2B2B2B?style=flat-square&logo=pytorch&logoColor=E5E5E5" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-2B2B2B?style=flat-square&logo=tensorflow&logoColor=E5E5E5" alt="TensorFlow" />
 </p>
 
----
 
 
 ## GitHub Analytics

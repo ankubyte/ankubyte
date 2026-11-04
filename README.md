@@ -1,58 +1,111 @@
-<h1 align="center">Hi 👋, I'm Ankush Gupta</h1>
-<h3 align="center">Developer | AI/ML Enthusiast</h3>
+
+<h1 align="center">Hey, I'm Ankush Gupta 👋</h1>
+
+<h3 align="center">
+  Developer || AI/ML enthusiast
+</h3>
 
 <p align="center">
-[<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/ankubyte)
-[<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>](mailto:ankucode@gmail.com)
-[<img src="https://img.shields.io/badge/Instagram-102216?style=for-the-badge&logo=instagram&logoColor=11d452"/>](https://instagram.com/ankubyte)
+  <a href="https://github.com/ankubyte">
+    <img src="https://img.shields.io/badge/GitHub-1C1C1C?style=flat-square&logo=github&logoColor=E5E5E5" />
+  </a>
+  <a href="mailto:ankucode@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1C1C1C?style=flat-square&logo=gmail&logoColor=E5E5E5" />
+  </a>
+  <a href="https://instagram.com/ankubyte">
+    <img src="https://img.shields.io/badge/Instagram-1C1C1C?style=flat-square&logo=instagram&logoColor=E5E5E5" />
+  </a>
 </p>
 
-<hr/>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ankubyte&color=11d452&style=for-the-badge" alt="Visitor Badge" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ankubyte&style=flat-square&color=555555&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-Hey! I'm Ankush Gupta, a developer who genuinely enjoys turning ideas into code and building things from scratch.
+---
 
-I'm passionate about programming, exploring new technologies, and experimenting with different projects.
+## About Me
 
-Currently exploring Python, Artificial Intelligence, and Machine Learning while continuously sharpening my development skills.
+Hey! I'm **Ankush**, a developer who genuinely enjoys turning ideas into code and building things from scratch.
 
-💻 Love building projects and experimenting with code.
-🧠 Exploring AI & Machine Learning.
-⚡ Always curious about new technologies.
-🚀 Learning by building, one project at a time.
+I love experimenting with different technologies, exploring new concepts, and creating projects just for the fun of it.
 
-## 🏆 GitHub Trophies
+Currently exploring **Python, Artificial Intelligence, and Machine Learning** while continuously improving my development skills.
 
-<p align="left">
-  <img src="https://github-profile-trophy-mu.vercel.app/?username=ankubyte&theme=dark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+- 💻 I love building projects and experimenting with code.
+- 🧠 Exploring AI & Machine Learning.
+- ⚡ Always curious about new technologies.
+- 🚀 Learning by building, one project at a time.
+
+> Code. Create. Experiment. Repeat.
+
+---
+
+## Tech Stack & Tools
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-2B2B2B?style=flat-square&logo=python&logoColor=E5E5E5" />
+  <img src="https://img.shields.io/badge/JavaScript-2B2B2B?style=flat-square&logo=javascript&logoColor=E5E5E5" />
 </p>
 
-## 💻 Tech Stack
+**Tools & Technologies**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<p>
+  <img src="https://img.shields.io/badge/Git-2B2B2B?style=flat-square&logo=git&logoColor=E5E5E5" />
+  <img src="https://img.shields.io/badge/GitHub-2B2B2B?style=flat-square&logo=github&logoColor=E5E5E5" />
+  <img src="https://img.shields.io/badge/MySQL-2B2B2B?style=flat-square&logo=mysql&logoColor=E5E5E5" />
+  <img src="https://img.shields.io/badge/MongoDB-2B2B2B?style=flat-square&logo=mongodb&logoColor=E5E5E5" />
 </p>
 
-## 📊 GitHub Analytics
+**Exploring AI & Data Science**
 
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ankubyte&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ankubyte&layout=compact&theme=dark" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankubyte&theme=dark" alt="GitHub Streak" />
+<p>
+  <img src="https://img.shields.io/badge/NumPy-2B2B2B?style=flat-square&logo=numpy&logoColor=E5E5E5" />
+  <img src="https://img.shields.io/badge/Pandas-2B2B2B?style=flat-square&logo=pandas&logoColor=E5E5E5" />
+  <img src="https://img.shields.io/badge/PyTorch-2B2B2B?style=flat-square&logo=pytorch&logoColor=E5E5E5" />
+  <img src="https://img.shields.io/badge/TensorFlow-2B2B2B?style=flat-square&logo=tensorflow&logoColor=E5E5E5" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankubyte&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />
+---
+
+
+## GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://ghstats.dev/api/card?username=ankubyte&theme=ayu&border_radius=18"
+    alt="Ankush's GitHub Stats Card"
+    width="90%"
+  />
 </p>
 
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ankubyte&bg_color=1C1C1C&color=A3A3A3&line=9CA3AF&point=E5E5E5&area=true&area_color=383838&hide_border=true"
+    alt="Contribution Activity Graph"
+    width="95%"
+  />
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ankubyte&hide_border=true&background=1C1C1C&ring=9CA3AF&fire=E5E5E5&currStreakLabel=A3A3A3&sideLabels=A3A3A3&dates=777777&currStreakNum=E5E5E5&sideNums=E5E5E5"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+
+
+
+<p align="center">
+  <i>Less scrolling, more building.</i>
+  <br/>
+  <sub>Thanks for stopping by! ✨</sub>
+</p>

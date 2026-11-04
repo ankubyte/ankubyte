@@ -80,19 +80,6 @@ Currently exploring **Python, Artificial Intelligence, and Machine Learning** wh
   />
 </p>
 
----
-
-## Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ankubyte&bg_color=1C1C1C&color=A3A3A3&line=9CA3AF&point=E5E5E5&area=true&area_color=383838&hide_border=true"
-    alt="Contribution Activity Graph"
-    width="95%"
-  />
-</p>
-
----
 
 <p align="center">
   <img
@@ -102,10 +89,3 @@ Currently exploring **Python, Artificial Intelligence, and Machine Learning** wh
 </p>
 
 
-
-
-<p align="center">
-  <i>Less scrolling, more building.</i>
-  <br/>
-  <sub>Thanks for stopping by! ✨</sub>
-</p>
